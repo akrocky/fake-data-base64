@@ -1,5 +1,5 @@
 
-[{#documents:<entry xmlns=​"http:​/​/​www.w3.org/​2005/​Atom" 
+{#documents:<entry xmlns=​"http:​/​/​www.w3.org/​2005/​Atom" 
 xmlns:m=​"http:​/​/​schemas.microsoft.com/​ado/​2007/​08/​dataservices/​metadata" 
 xmlns:d=​"http:​/​/​schemas.microsoft.com/​ado/​2007/​08/​dataservices" 
 xml:base=​"http:​/​/​gafivq11sap.gasag-ad.gasag.de:​8012/​sap/​opu/​odata/​sap/​ZIUI5_CHECKLISTE_APP_SRV/​">
@@ -20,4 +20,4 @@ scheme=​"http:​/​/​schemas.microsoft.com/​ado/​2007/​08/​dataser
 <d:Xml>​"PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHAxOmNoZWNrbGlzdCB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIiB4c2k6bm9OYW1lc3BhY2VTY2hlbWFMb2NhdGlvbj0iTVdNX0NoZWNrbGlzdGVfTkJCXzEuMC54c2QiIHhtbG5zOnAxPSJodHRwOi8vd3d3Lm5uYi5kZS9jaGVja2xpc3RlbnNjaGVtYSI+CiA8d29ya2ZvcmNlVGFza1R5cGU+SEFfUkVWPC93b3JrZm9yY2VUYXNrVHlwZT4KIDxkZXNjcmlwdGlvbi8+CiA8ZGVmYXVsdFNhcENsYXNzPkUwNDAwPC9kZWZhdWx0U2FwQ2xhc3M+CiA8b2JqZWN0SWQvPgogPGFjY291bnRpbmdFbGVtZW50Lz4KIDx2ZXJzaW9uTnVtYmVyPjAwMDAwMDUzMTE8L3ZlcnNpb25OdW1iZXI+CiA8ZmluYWxNb2R1bGU+MDwvZmluYWxNb2R1bGU+CjwvcDE6Y2hlY2tsaXN0Pgo="</d:Xml>​
 </m:properties>​
 </content>
-​</entry>​}]
+​</entry>​}
